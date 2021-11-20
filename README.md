@@ -10,23 +10,23 @@ Instance file are named as a combination of instance number and whether a new pr
 | ------ | ------ | ------ | ------ |
 | 1 | Left | skew+ | 20 |
 | 2 | Left | skew+| 50 |
-| 3 | skew0 | Left| J15 |
-| 4 | skew+ | Right | J15 |
-| 5 | skew- | Right| J15 |
-| 6 | skew0 | Right| J15 |
-| 7 | skew+ | Uniform | J15 |
-| 8 | skew- | Uniform| J15 |
-| 9 | skew0 | Uniform| J15 |
-| 10 | skew+ | Symmetric | J15 |
-| 11 | skew- | Symmetric| J15 |
-| 12 | skew0 | Symmetric| J15 |
-| 13 | skew+ | Bimodal| J15 |
-| 14 | skew- | Bimodal| J15 |
-| 15 | skew0 | Bimodal| J15 |
-| 16 | skew+ | Left | D15 |
-| 17 | skew- | Left| D15 |
-| 18 | skew0 | Left| D15 |
-| 19 | skew+ | Right | D15 |
+| 3 | Left | skew- | 20 |
+| 4 | Left | skew-| 50 |
+| 5 | Left | skew0 | 20 |
+| 6 | Left | skew0| 50 |
+| 7 | Right | skew+ | 20 |
+| 8 | Right | skew+| 50 |
+| 9 | Right | skew-| 20 |
+| 10 | Right | skew- | 50 |
+| 11 | Right | skew0| 20 |
+| 12 | Right | skew0| 50 |
+| 13 | Uniform | skew+| 20 |
+| 14 | Uniform | skew+| 50 |
+| 15 | Uniform | skew-| 20 |
+| 16 | Uniform | skew- | 50 |
+| 17 | Uniform | skew0| 20 |
+| 18 | Uniform | skew0| 50 |
+| 19 | Symmetric | skew+ | 20 |
 | 20 | skew- | Right| D15 |
 | 21 | skew0 | Right| D15 |
 | 22 | skew+ | Uniform | D15 |
@@ -38,3 +38,5 @@ Instance file are named as a combination of instance number and whether a new pr
 | 28 | skew+ | Bimodal| D15 |
 | 29 | skew- | Bimodal| D15 |
 | 30 | skew0 | Bimodal| D15 |
+
+#
