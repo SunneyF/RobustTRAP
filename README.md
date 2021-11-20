@@ -27,16 +27,16 @@ Instance file are named as a combination of instance number and whether a new pr
 | 17 | Uniform | skew0| 20 |
 | 18 | Uniform | skew0| 50 |
 | 19 | Symmetric | skew+ | 20 |
-| 20 | skew- | Right| D15 |
-| 21 | skew0 | Right| D15 |
-| 22 | skew+ | Uniform | D15 |
-| 23 | skew- | Uniform| D15 |
-| 24 | skew0 | Uniform| D15 |
-| 25 | skew+ | Symmetric | D15 |
-| 26 | skew- | Symmetric| D15 |
-| 27 | skew0 | Symmetric| D15 |
-| 28 | skew+ | Bimodal| D15 |
-| 29 | skew- | Bimodal| D15 |
-| 30 | skew0 | Bimodal| D15 |
+| 20 | Symmetric | skew+| 50 |
+| 21 | Symmetric| skew-| 20 |
+| 22 | Symmetric | skew- | 50 |
+| 23 | Symmetric | skew0| 20 |
+| 24 | Symmetric | skew0| 50|
+| 25 | Bimodal | skew+ | 20 |
+| 26 | Bimodal | skew+| 50 |
+| 27 | Bimodal | skew-| 20 |
+| 28 | Bimodal | skew-| 50 |
+| 29 | Bimodal | skew0| 20 |
+| 30 | Bimodal | skew0| 50 |
 
 #
