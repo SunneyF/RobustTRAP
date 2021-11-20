@@ -6,10 +6,10 @@ qualification costs`. This consists of a results table containing details about 
 ## Instances
 Instance file are named as a combination of instance number and whether a new product is included('1y') or not ('1n'). Following are the details on the instances:
 
-| FileName | Skewness |Distribution | max. qualification cost |
+| FileName | Distribution| Skewness | max. qualification cost |
 | ------ | ------ | ------ | ------ |
-| 1 | skew+ | Left | J15 |
-| 2 | skew- | Left| J15 |
+| 1 | Left | skew+ | 20 |
+| 2 | Left | skew+| 50 |
 | 3 | skew0 | Left| J15 |
 | 4 | skew+ | Right | J15 |
 | 5 | skew- | Right| J15 |
