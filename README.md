@@ -4,7 +4,7 @@ resource allocation problem with uncertain
 qualification costs`. This consists of a results table containing details about solution time in seconds and number of different categories of robust efficient solutions found. We also share our public instances.
 
 ## Instances
-Instance file are named as a combination of instance number and whether a new product is included('1y') or not ('1n'). Following are the details on the instances:
+Following are the details on the instances:
 
 | FileName | Distribution| Skewness | max. qualification cost |
 | ------ | ------ | ------ | ------ |
