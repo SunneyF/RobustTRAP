@@ -1,7 +1,7 @@
 # Robust optimization of TRAP
 Additional electronic materials for `Fotedar,S., Strömberg,A.-B., Åblad,E., Almgren,T. Robust optimization of a bi-objective tactical
 resource allocation problem with uncertain
-qualification costs`. This consists of a results table ([Results](https://github.com/SunneyF/RobustTRAP/blob/main/additional_results.pdf)) containing details about solution time in seconds and number of different categories of robust efficient solutions found. We also share our public instances and the constant data used across instances ([Public Instances](https://github.com/SunneyF/RobustTRAP/blob/main/Instances_generated.zip)).
+qualification costs`. This consists of a results table ([Results](https://github.com/SunneyF/RobustTRAP/blob/main/additional_results.pdf)) containing details about solution time in seconds and number of different categories of robust efficient solutions found. We also share our public instances and the constant data used across instances ([Public Instances](https://github.com/SunneyF/RobustTRAP/blob/main/Instances_generated.zip)). For more information contact `sunney@chalmers.se`
 
 ## Instances
 Following are the details on the instances:
